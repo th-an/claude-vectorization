@@ -1,0 +1,6 @@
+{
+  "name": "SVG Image Analyzer",
+  "description": "An application that analyzes multiple images to generate animated SVG code using AI. It features an SVG viewer and animator to reference the created vector graphics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
